@@ -1,0 +1,6 @@
+{
+  "name": "The Common Room - Specialty Coffee & Bakehouse",
+  "description": "Artisanal specialty coffee roastery, handcrafted patisserie, and sunlit cafe experience with interactive table ordering, brew guides, and bean shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
